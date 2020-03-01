@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="1208" group="Filme e Serie" logo="https://i.ibb.co/F75tqwv/aande.png", A&E
+http://lb.kstream.org/aovivo/SD_AE/video.m3u8?token=017ffbad867205a93f9bf53dc2cf2c9b
+#EXTINF:0 type="stream" channelId="-1" group="Filme e Serie" logo="https://i.ibb.co/F75tqwv/aande.png", A&E FHD
+http://lb.kstream.org/aovivo/FHD_AE/video.m3u8?token=017ffbad867205a93f9bf53dc2cf2c9b
+#EXTINF:0 type="stream" channelId="2503" group="Filme e Serie" logo="https://i.ibb.co/F75tqwv/aande.png", A&E HD
+http://lb.kstream.org/aovivo/HD_AE/video.m3u8?token=017ffbad867205a93f9bf53dc2cf2c9b
+#EXTINF:0 type="stream" channelId="2503" group="Filme e Serie" logo="https://i.ibb.co/F75tqwv/aande.png", A&E HD [Alter]
+http://lb.kstream.org/aovivo/HD_AE_ALTER/video.m3u8?token=017ffbad867205a93f9bf53dc2cf2c9b
+#EXTINF:0 type="stream" channelId="2501" group="Filme e Serie" logo="https://i.ibb.co/g7FpZ74/amc.png", AMC
+http://lb.kstream.org/aovivo/SD_AMC/video.m3u8?token=017ffbad867205a93f9bf53dc2cf2c9b
+#EXTINF:0 type="stream" channelId="-1" group="Filme e Serie" logo="https://i.ibb.co/g7FpZ74/amc.png", AMC FHD
+http://lb.kstream.org/aovivo/FHD_AMC/video.m3u8?token=017ffbad867205a93f9bf53dc2cf2c9b
+#EXTINF:0 type="stream" channelId="2501" group="Filme e Serie" logo="https://i.ibb.co/g7FpZ74/amc.png", AMC HD
+http://lb.kstream.org/aovivo/HD_AMC/video.m3u8?token=017ffbad867205a93f9bf53dc2cf2c9b
+#EXTINF:0 type="stream" channelId="2501" group="Filme e Serie" logo="https://i.ibb.co/g7FpZ74/amc.png", AMC HD [Alter]
+http://lb.kstream.org/aovivo/HD_AMC_ALTER/video.m3u8?token=017ffbad867205a93f9bf53dc2cf2c9b
+#EXTINF:0 type="stream" channelId="1573" group="Filme e Serie" logo="https://i.ibb.co/stn1js5/axnb.png", AXN
+http://lb.kstream.org/aovivo/SD_AXN/video.m3u8?token=017ffbad867205a93f9bf53dc2cf2c9b
+#EXTINF:0 type="stream" channelId="-1" group="Filme e Serie" logo="https://i.ibb.co/Lx7T6Ls/axnhdb.png", AXN FHD
+http://lb.kstream.org/aovivo/FHD_AXN/video.m3u8?token=017ffbad867205a93f9bf53dc2cf2c9b
+#EXTINF:0 type="stream" channelId="2246" group="Filme e Serie" logo="https://i.ibb.co/Lx7T6Ls/axnhdb.png", AXN HD
+http://lb.kstream.org/aovivo/HD_AXN/video.m3u8?token=017ffbad867205a93f9bf53dc2cf2c9b
+#EXTINF:0 type="stream" channelId="2246" group="Filme e Serie" logo="https://i.ibb.co/Lx7T6Ls/axnhdb.png", AXN HD [Alter]
+http://lb.kstream.org/aovivo/HD_AXN_ALTER/video.m3u8?token=017ffbad867205a93f9bf53dc2cf2c9b
+
